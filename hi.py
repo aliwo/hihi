@@ -1,3 +1,4 @@
-print('hi')
-print('hi2')
+print('sw is great teacher')
+print('everyone likes sw')
+
 
